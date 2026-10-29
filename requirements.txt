@@ -1,0 +1,13 @@
+playwright
+feedparser
+requests
+python-dotenv
+groq
+elevenlabs
+faster-whisper
+moviepy>=2.0
+Pillow
+numpy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2

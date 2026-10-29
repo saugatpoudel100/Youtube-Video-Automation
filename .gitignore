@@ -1,0 +1,9 @@
+venv/
+.env
+.env.example
+client_secret.json
+dotenv_example.txt
+token.json
+data/
+fb_session/
+ig_session/
